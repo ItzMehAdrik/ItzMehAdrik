@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItzMehAdrik
 - 👀 I’m interested in Coding through python
-- 🌱 I’m currently learning js and also into learn web development
+- 🌱 I’m currently learning js and also into learning web development
 - 📫 How to reach me : You can join my discord server. https://discord.gg/JbF6gCDc5X
 
 <!---
