@@ -1,4 +1,4 @@
----><h2> Hey there! I'm Adrik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Adrik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @ItzMehAdrik
 - 👀 I’m interested in Coding through python and javascript
 - 🌱 I’m currently learning js and also into learning web development
-- 📫 How to reach me : You can join my discord server. https://discord.gg/JbF6gCDc5X
+- 📫 Also loves to play games like csgo and dota
 
 <h3>🛠 Tech Stack</h3>
 
