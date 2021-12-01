@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👋 Hi, I’m @ItzMehAdrik
+- 👋 Hi, I’m ItzMehAdrik
 - 👀 I’m interested in Coding through python and javascript
 - 🌱 I’m currently learning js and also into learning web development
 - 🎮 Also loves to play games like csgo and dota
