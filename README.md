@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascrpt | C++  
+- 💻 &nbsp; Python | Javascript | C++  
 - 🌐 &nbsp; Javascript | HTML | CSS | 
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
