@@ -20,10 +20,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
  
-&nbsp; <a href="https://www.instagram.com/adrik.7777/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/the_ishan.7777/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="ishanprasad46@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-&nbsp; <a href="https://discord.gg/j7uqsq934n" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" width="50" /></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" width="50" /></a>
 </p>
 
 ⭐️ From [ItzMehAdrik](https://github.com/ItzMehAdrik)
